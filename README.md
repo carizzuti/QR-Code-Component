@@ -16,9 +16,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 #### Desktop
-![Desktop View](../Desktop-sc.png)
+![Desktop View](./Desktop-sc.png)
 #### Mobile
-<img src="../Screenshot 2026-02-26 at 6.11.18 PM.png" alt="Mobile View" width="auto" height="300" />
+<img src="./Mobile-sc.png" alt="Mobile View" width="auto" height="300" />
 
 ### Links
 
@@ -32,7 +32,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- [Styled Components](https://styled-components.com/) - For styles
 
 ## Author
 
